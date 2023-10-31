@@ -6,3 +6,6 @@ text for third commit...
 this is fourth commit..  {hi 4 :)}
 
 commit 6 (six) - new text for check in this commit
+
+branch{3} added. test for merge!
+this part added in (branch-3)
