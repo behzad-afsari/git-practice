@@ -4,3 +4,5 @@ text for second commit
 text for third commit...
 
 this is fourth commit.. - hi 4 :)
+
+commit 6 (six)
