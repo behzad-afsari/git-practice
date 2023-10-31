@@ -9,3 +9,5 @@ commit 6 (six) - new text for check in this commit
 
 branch{3} added. test for merge!
 this part added in (branch-3)
+
+new taxt after merge with {branch-3}
