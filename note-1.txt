@@ -1,8 +1,8 @@
-hello behzad
+hello roozbeh 
 text for second commit
 
 text for third commit...
 
-this is fourth commit.. - hi 4 :)
+this is fourth commit..  {hi 4 :)}
 
-commit 6 (six)
+commit 6 (six) - new text for check in this commit
